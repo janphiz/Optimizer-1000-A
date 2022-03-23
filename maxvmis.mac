@@ -1,0 +1,24 @@
+!----------------------------------------------------
+!
+!  ANSYS-Batch-File zur Generierung der maximalen
+!  Vergleichsspannung von der Elementunterseite und
+!  der Elementoberseite
+!
+!  Die maximale Vergleichsspannung wird in TABLE
+!  SVMAX gespeichert.
+!
+!  Die Berechnung muss fuer jeden Lastfall neu durch-
+!  gefuehrt werden.
+!
+!  Darstellung:
+!
+!     Contour Plot:  pletab,svmax,avg  : gemittelt
+!                    pletab,svmax,noav : Gauss-Punkte
+!
+!     Listing:       pretab,svmax
+!
+!----------------------------------------------------
+
+
+
+etable,svmax,s,eqv

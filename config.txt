@@ -1,0 +1,10 @@
+Dateipfad ANSYS:
+"C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Ansys 2021 R2\Mechanical APDL 2021 R2.lnk"
+Dateipfad Adams View:
+"C:\Users\JP\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Adams Student Edition 2021.1\Adams View.lnk"
+Adams Version:
+adams2021_1_SE
+X-Position:
+300
+Y-Position:
+80
